@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Infinix-X662.mk
+    $(LOCAL_DIR)/twrp_X662.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Infinix-X662-user \
-    omni_Infinix-X662-userdebug \
-    omni_Infinix-X662-eng
+    twrp_X662-user \
+    twrp_X662-userdebug \
+    twrp_X662-eng
